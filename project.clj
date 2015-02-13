@@ -1,4 +1,4 @@
-(defproject com.domkm/silk "0.0.1-SNAPSHOT"
+(defproject com.domkm/silk "0.0.4"
 
   :description "Clojure[Script] Routing"
 
